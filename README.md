@@ -2,6 +2,7 @@
 
 # yfacts
 Tiny version of Facts for AmigaOS 4 which uses the system timesync.library and doesn't try to do much other than keep time synchronised in the background.
+NB: This has been superceded by Mr. Wolf - https://github.com/chris-y/MrWolf
 
 # facts
 Original version, written in E for AmigaOS 2.04+
